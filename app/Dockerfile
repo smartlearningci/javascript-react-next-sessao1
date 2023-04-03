@@ -1,6 +1,6 @@
 FROM node:18.15.0
 
-WORKDIR /code
+WORKDIR /app
 
 COPY package.json package.json
 
