@@ -7,3 +7,5 @@ services:
       - 9229:9229
     volumes:
       - /app:/app
+volumes:
+ - /app
